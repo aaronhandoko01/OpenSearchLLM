@@ -5,7 +5,7 @@ To create intelligent search, OpenSearch is a one-stop Solution as a Service (Sa
 LLM-Based Conversational Search Edition can automatically generate conversational search results in various formats such as texts, reference images, and reference links based on business data. The conversational search service is intelligent and high-quality.
 
 1. Purchase Open Search by accessing https://common-buy-intl.alibabacloud.com/?spm=opensearchspma.knowledge-instances.0.0.7bab6bd6DJt9Yf&commodityCode=opensearch_openknowledge_public_intl.
-2. Install the required libraries
+2. In ECS or local library, install the required libraries
 
    ```
    pip install alibabacloud_tea_util 
