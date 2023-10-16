@@ -7,7 +7,7 @@ LLM-Based Conversational Search Edition can automatically generate conversationa
 1. Purchase Open Search by accessing https://common-buy-intl.alibabacloud.com/?spm=opensearchspma.knowledge-instances.0.0.7bab6bd6DJt9Yf&commodityCode=opensearch_openknowledge_public_intl.
 2. Install the required libraries
 
-   ```ruby
+   ```
    pip install alibabacloud_tea_util 
    pip install alibabacloud_opensearch_util
    pip install alibabacloud_credentials
@@ -15,13 +15,13 @@ LLM-Based Conversational Search Edition can automatically generate conversationa
 
 3. Create environmental variable for the Alibaba Cloud Access Key and Secret.
 
-```
+  ```
   export ALIBABA_CLOUD_ACCESS_KEY_ID=<access_key_id> 
   export ALIBABA_CLOUD_ACCESS_KEY_SECRET=<access_key_secret>
-```
+  ```
   
 4. Go to the existing directory then run
 
-```
+  ```
   python3 app.py
-```
+  ```
